@@ -5,6 +5,7 @@ Reinforcement learning merupakan salah satu jenis machine learning dimana suatu 
 Repository ini akan mengimplementasikan Q-Learning dan SARSA dari stratch untuk Environment Wumpus World. 
 ## Wumpus World
 ![alt text](image-2.png)
+
 Permainan ini bertujuan mengambil emas dan kembali ke titik semula untuk climb sambil menghindari Wumpus dan Lubang di Board.
 
 ## Q-Learning dan SARSA
@@ -27,10 +28,11 @@ diambil di masa depan, terlepas dari aksi yang benar-benar diambil.
  Secara bahasa mungkin membingungkan saat dibaca, tapi dengan rumus 
 matematis Q-Table berikut dapat lebih mudah dipahami.
 
-Q-Learning
+*Q-Learning*
 ![alt text](image-1.png)
 
-Sarsa
+
+*Sarsa*
 ![alt text](image.png)
 
 Sarsa memperbarui nilai Q-Table dengan mempertimbangkan action yang 
