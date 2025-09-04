@@ -8,6 +8,19 @@ Repository ini akan mengimplementasikan Q-Learning dan SARSA dari stratch untuk 
 
 Permainan ini bertujuan mengambil emas dan kembali ke titik semula untuk climb sambil menghindari Wumpus dan Lubang di Board.
 
+Cara Penggunaan Program : 
+## Cara Menjalankan Program (Windows)
+1. Clone Repository 
+```sh
+git clone https://github.com/salmaanhaniif/AI_Reinforcement_Learning.git
+```
+2. Buka terminal lalu pindah ke direktori
+```sh
+cd ./AI_Reinformencement_Learning
+cd src
+```
+3. Untuk menjalankan notebook langsung saja buka main.py dan jalankan kodenya untuk melihat agent dengan metode Q-Learning dan SARSA
+
 ## Q-Learning dan SARSA
 Algoritma Q-Learning dan SARSA memiliki fundamental policy yang masih sama, 
 yaitu dengan mengacu kepada Q-Table dalam pengambilan keputusan. 
